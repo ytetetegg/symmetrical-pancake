@@ -1,7 +1,7 @@
 # ✋ Hello everyone!
 
 # 💫 About Me:
-Hello, i'm a backend developer from russian
+Hello, i'm a backend developer from russia.
 
 ![!Image](https://i.pinimg.com/originals/dc/05/f2/dc05f26f08b6f45fd9324138bb81e34d.gif)
 
